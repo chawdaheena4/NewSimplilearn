@@ -1,4 +1,5 @@
 class NewSimplilearn
+
 {
 public static void main (String args[])
 {
